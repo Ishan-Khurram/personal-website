@@ -9,13 +9,6 @@ const ContactForm = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    console.log("Sending data:", {
-      from_name: form.current.from_name.value,
-      from_last: form.current.from_last.value,
-      from_email: form.current.from_email.value,
-      message: form.current.message.value,
-    });
-
     emailjs
       .sendForm("khurram", "template1", e.target, "xOnP-IL8QwwMaX-Wo")
       .then(

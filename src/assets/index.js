@@ -31,6 +31,7 @@ import therapai from "../assets/projects/aitherapy.png";
 import hybridtraining from "../assets/projects/hybridtraining.png";
 import spotifywrapped from "../assets/projects/spotifywrapped.png";
 import stockbot from "../assets/projects/stockbot.png";
+import mystimon from "../assets/projects/mystimon.png";
 
 // Avatar
 import avatar from "./avatar/avatar.png";
@@ -55,6 +56,7 @@ export {
   therapai,
   hybridtraining,
   spotifywrapped,
+  mystimon,
   stockbot,
   avatar,
   Icon,

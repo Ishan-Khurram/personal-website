@@ -32,6 +32,7 @@ import {
   avatar,
   spotifywrapped,
   hybridtraining,
+  mystimon,
   therapai,
   stockbot,
   tsIcon,
@@ -117,14 +118,14 @@ const projects = [
     description:
       "My personal Spotify Weekly Wrapped tracks my top songs, artists, and genres every week. Built with Python, OAuth2, and the Spotify API, it automates insights and recommendations, helping me stay on top of my music trends effortlessly.",
     image: spotifywrapped,
-    source_code_link: "",
+    source_code_link: "https://github.com/Ishan-Khurram/SpotifyWeeklyWrapped",
   },
   {
     name: "Zenkai",
     description:
       "Zenkai is a sleek and intuitive fitness tracking app designed for athletes who want to push their limits. Log runs, track lifts, and monitor weight trends with structured workout folders and real-time data visualization. Built for iOS, Zenkai keeps your progress organized and accessible, helping you improve every step of the way.",
     image: hybridtraining,
-    source_code_link: "",
+    source_code_link: "https://github.com/Ishan-Khurram/Zenkai",
   },
   {
     name: "TherapAI",
@@ -134,11 +135,18 @@ const projects = [
     source_code_link: "",
   },
   {
+    name: "Mystimon",
+    description:
+      "MystiMon is an interactive Pokémon guessing game where players identify Pokémon based on AI-generated hints that progressively increase in difficulty, covering type matchups, evolution details, design inspirations, and trivia. Built with Next.js and hosted on Vercel, the game challenges players' Pokémon knowledge while avoiding direct Pokédex references for a more engaging experience.",
+    image: mystimon,
+    source_code_link: "https://github.com/Ishan-Khurram/Mystimon",
+  },
+  {
     name: "Discord Stock Bot",
     description:
       "My Discord Stock Bot provides real-time stock price updates directly in Discord. Built with Python and integrated with financial APIs, it allows users to quickly retrieve the latest stock prices by simply typing a ticker symbol like MSFT, BTC, etc.",
     image: stockbot,
-    source_code_link: "",
+    source_code_link: "https://github.com/Ishan-Khurram/Discord-StockBot",
   },
 ];
 
@@ -278,7 +286,7 @@ const skills = [
     title: "Python",
     icon: pyIcon,
     description:
-      "With 3 years of Python experience, I am adept at coding functions and creating graphic interfaces using Tkinter.",
+      "With 5 years of Python experience, 2 of which being professional, I am adept at coding functions, and have strong OOP principles.",
   },
   {
     id: "npm",
