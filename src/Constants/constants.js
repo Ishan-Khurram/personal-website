@@ -188,7 +188,7 @@ const skills = [
     title: "Swift",
     icon: swift, // change to swift
     description:
-      "I have substantial experience in employing JavaScript to introduce interactivity and functionality into web pages, resulting in dynamic user interfaces.",
+      "I have experience using Swift to build basic IOS applications.",
   },
   {
     id: "reactnative",
@@ -237,14 +237,7 @@ const skills = [
     title: "Java",
     icon: javaIcon,
     description:
-      "I have extensive experience utilizing Java for object-oriented programming (OOP) and implementing data structures.",
-  },
-  {
-    id: "aws",
-    title: "Amazon Web Services",
-    icon: awsIcon,
-    description:
-      "I am certified in AWS and proficient in working with EC2 and RDS instances, leveraging the power of cloud computing for scalable and reliable infrastructure.",
+      "I have experience utilizing Java for object-oriented programming (OOP) and implementing data structures.",
   },
   {
     id: "figma",
@@ -268,13 +261,6 @@ const skills = [
       "I am skilled in using GitHub for seamless project collaboration, code sharing, and issue tracking. Through GitHub, I efficiently create and manage repositories and effectively present my work to potential employers.",
   },
   {
-    id: "psql",
-    title: "Postgresql",
-    icon: psqlIcon,
-    description:
-      "I have a strong command of PostgreSQL, encompassing a wide range of skills such as database normalization, triggers, front-end connectivity, and data analysis using software like Power BI.",
-  },
-  {
     id: "vite",
     title: "Vite",
     icon: viteIcon,
@@ -286,7 +272,7 @@ const skills = [
     title: "Python",
     icon: pyIcon,
     description:
-      "With 5 years of Python experience, 2 of which being professional, I am adept at coding functions, and have strong OOP principles.",
+      "With 5 years of Python experience, 2 of which being professional, I am adept at coding functions, have strong OOP priciples, and I am able to implement data structures.",
   },
   {
     id: "npm",
